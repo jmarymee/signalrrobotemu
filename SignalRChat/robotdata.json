@@ -1,0 +1,74 @@
+{
+    "robots": [
+        {
+            "id": "urdfid",
+            "joints": [
+                {
+                    "id": "Joint1",
+                    "angle": 90,
+                    "Temperature": 25
+                },
+                {
+                    "id": "Joint2",
+                    "angle": 90,
+                    "Temperature": 25
+                },
+                {
+                    "id": "Joint3",
+                    "angle": 90,
+                    "Temperature": 25
+                },
+                {
+                    "id": "Joint4",
+                    "angle": 90,
+                    "Temperature": 25
+                },
+                {
+                    "id": "Joint5",
+                    "angle": 90,
+                    "Temperature": 25
+                },
+                {
+                    "id": "Joint6",
+                    "angle": 90,
+                    "Temperature": 25
+                }
+            ]
+        },
+        {
+            "id": "urdfid",
+            "joints": [
+                {
+                    "id": "Joint1",
+                    "angle": 90,
+                    "Temperature": 25
+                },
+                {
+                    "id": "Joint2",
+                    "angle": 90,
+                    "Temperature": 25
+                },
+                {
+                    "id": "Joint3",
+                    "angle": 90,
+                    "Temperature": 25
+                },
+                {
+                    "id": "Joint4",
+                    "angle": 90,
+                    "Temperature": 25
+                },
+                {
+                    "id": "Joint5",
+                    "angle": 90,
+                    "Temperature": 25
+                },
+                {
+                    "id": "Joint6",
+                    "angle": 90,
+                    "Temperature": 25
+                }
+            ]
+        }
+    ]
+}
